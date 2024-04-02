@@ -4,7 +4,7 @@ This repository is about a school project where I developed my first web page us
 ## Introduction
 This website was made with HTML and CSS where I only put new knowledge into practice making a fan website for the Final Space series.
 
-<img src="" alt="Final Space" width="500" height="500" />
+<img src="https://github.com/Henry0604/Schoolwork.-HTML_and_CSS_Practice/assets/113632465/3c45f324-13c5-4fd7-88e6-46c90a90fd0e" alt="Final Space" width="500" height="500" />
 
 ## Technologies used 
 
